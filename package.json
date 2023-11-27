@@ -1,0 +1,13 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "My first Node app",
+  "scripts": {
+    "dev": "http-server ./"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
